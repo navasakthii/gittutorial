@@ -21,3 +21,9 @@
 
 ## how to list all the files and folders in the cureent folder
 - `ls`
+
+# Never click the commit directly
+- ![alt text](image-2.png)
+    - `dont click this commit` 
+    - `instead use the terminal to commit`
+     
